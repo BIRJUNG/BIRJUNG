@@ -115,7 +115,7 @@ Hypothesis Testing • A/B Testing • Probability • Inferential Statistics
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BIRJUNG&theme=tokyo-night&hide_border=true" />
 </p>
 
----## 🎯 Data Science Strength Meter
+## 🎯 Data Science Strength Meter
 
 ```text
 Problem Solving           ████████████████████  95%
